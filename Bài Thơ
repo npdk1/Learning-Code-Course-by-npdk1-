@@ -1,11 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tiểu đội xe không kính</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        p {
+            text-indent: 20px;
+            margin: 10px 0;
+        }
+        .author {
+            text-align: right;
+            font-style: italic;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Bài Thơ Về Tiểu Đội Xe Không Kính</h1>
+    <h1>Tiểu đội xe không kính</h1>
+    <div class="author">Phạm Tiến Duật</div>
+    <p>Không có kính không phải vì xe không có kính,</p>
+    <p>Bom giật, bom rung kính vỡ đi rồi.</p>
+    <p>Ung dung buồng lái ta ngồi,</p>
+    <p>Nhìn đất, nhìn trời, nhìn thẳng.</p>
+
+    <p>Nhìn thấy gió vào xoa mắt đắng,</p>
+    <p>Nhìn thấy con đường chạy thẳng vào tim,</p>
+    <p>Thấy sao trời và đột ngột cánh chim,</p>
+    <p>Như sa, như ùa vào buồng lái.</p>
+
+    <p>Không có kính, ừ thì có bụi,</p>
+    <p>Bụi phun tóc trắng như người già.</p>
+    <p>Chưa cần rửa, phì phèo châm điếu thuốc,</p>
+    <p>Nhìn nhau mặt lấm cười ha ha.</p>
+
+    <p>Không có kính, ừ thì ướt áo,</p>
+    <p>Mưa tuôn, mưa xối như ngoài trời.</p>
+    <p>Chưa cần thay, lái trăm cây số nữa,</p>
+    <p>Mưa ngừng, gió lùa khô mau thôi.</p>
+
+    <p>Những chiếc xe từ trong bom rơi,</p>
+    <p>Đã về đây họp thành tiểu đội,</p>
+    <p>Gặp bè bạn suốt dọc đường đi tới,</p>
+    <p>Bắt tay qua cửa kính vỡ rồi.</p>
+
+    <p>Bếp Hoàng Cầm ta dựng giữa trời,</p>
+    <p>Chung bát đũa nghĩa là gia đình đấy,</p>
+    <p>Võng mắc chông chênh đường xe chạy,</p>
+    <p>Lại đi, lại đi, trời xanh thêm.</p>
+
+    <p>Không có kính, rồi xe không có đèn,</p>
+    <p>Không có mui xe, thùng xe có xước,</p>
+    <p>Xe vẫn chạy vì miền Nam phía trước,</p>
+    <p>Chỉ cần trong xe có một trái tim.</p>
 </body>
 </html>
