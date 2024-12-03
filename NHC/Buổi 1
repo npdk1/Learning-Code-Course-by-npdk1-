@@ -7,7 +7,7 @@
     <title>Đăng Khoa ChillGuys</title>
 </head>
 <body bgcolor="white" text="red"> <!--Quan tâm thì nên xài không thì style color cho từng text-->
-<style>/*7 màu cực chất*/
+<style>/*Không khuyến khích học*/
     .sevencolorVER1{
         background: linear-gradient(to left,red,orange,green,blue,pink,purple,lightblue);
         -webkit-background-clip: text;
@@ -23,6 +23,12 @@
   <h1><center><a href="https://clevai.edu.vn/hieu-con-yeu/he-thuc-luong-trong-tam-giac-vuong/">🔥Xem thêm tại đây🔥</a></h1></center>
   <right><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsGEagOkudTI2lTEDaAGlO5Kp0csHDiFk9w&s" height="auto" width="100%"></right>
   <hr style="border: 0; height: 5px; background-color: chocolate;">
+  <!--Vận dụng cao footer-->
+<footer style="text-align: center;background-color: black;color: azure;padding: 20px;font-size: 15px;">
+<p>Code developed by <strong><i>Nguyễn Phan Đăng Khoa</i></strong></p><br>
+<p><a href="https://github.com/npdk1" style="color: aqua;font-size: large;">My Github Profile</a></p><br>
+<p>&#169; 2024 All Rights Reserved</p>
+</footer>
 
  
 
