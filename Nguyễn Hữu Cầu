@@ -1,0 +1,37 @@
+<!--Code by npdk(github:npdk1)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Khoa ChillGuys</title>
+</head>
+<body bgcolor="white" text="red"> <!--Quan tâm thì nên xài không thì style color cho từng text-->
+<style>/*7 màu cực chất*/
+    .sevencolorVER1{
+        background: linear-gradient(to left,red,orange,green,blue,pink,purple,lightblue);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+</style>
+  <h1 class="sevencolorVER1"><center><font face="Arial" size="150">Công Thức Lượng Giác Rất Hay Và Đáng Nhớ</font></center></h1>
+  <hr style="border: 0; height: 5px; background-color: chartreuse;">
+  
+  <h2 style="color: blue;"><strong>Tìm sin lấy đối chia huyền</strong></h2>
+  <h2 style="color: brown;"><u>Cosin hai cạnh kề huyền chia nhau</u></h2>
+  <h2 style="color: cadetblue;"><i>Còn tan ta hãy tính sau,đối trên kề dưới chia nhau biết liền</i></h2>
+  <h2 style="color: crimson;"></h2>
+  <right><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsGEagOkudTI2lTEDaAGlO5Kp0csHDiFk9w&s" height="auto" width="100%"></right>
+  <hr style="border: 0; height: 5px; background-color: chocolate;">
+
+ 
+
+  
+
+
+
+
+</body>
+    
+</body>
+</html>
