@@ -1,0 +1,111 @@
+<!--Code by npdk(github:npdk1)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buổi 2-Table</title>
+</head>
+<body bgcolor="white" text="red"> <!--Quan tâm thì nên xài không thì style color cho từng text-->
+<style>/*Gắn thẻ style*/
+    .sevencolorVER1{
+        background: linear-gradient(to left,red,orange,green,blue,pink,purple,lightblue);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+    .sevencolorVER2{
+        background: linear-gradient(to right,red,orange,green,blue,pink,purple,lightblue);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+        .border7mau{
+            border: 0; /* Loại bỏ viền mặc định */
+            height: 8px; /* Chiều cao của dòng */
+            background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); /* Gradient 7 màu */
+            border-radius: 5px; /* Làm tròn góc */
+        }
+</style>
+  <!--Table -->
+  <!--THỜI KHÓA BIỂU -->
+  <h1 class="sevencolorVER1"><center><font face="Arial" size="150">&#9734THỜI KHÓA BIỂU 12A08&#9734</font></center></h1>
+  <hr class="border7mau">
+  <center><table class="sevencolorVER1" border="1" style="text-align: center;font-size: large;"  width="90%" height="100%"></center>
+    <tr><th colspan="6"><strong class="sevencolorVER1">SÁNG</strong></th></tr>
+    <tr class="sevencolorVER2">
+        <th>Thứ 2</th>
+        <th>Thứ 3</th>
+        <th>Thứ 4</th>
+        <th>Thứ 5</th>
+        <th >Thứ 6</th>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>SHDC</td>
+        <td>SINH</td>
+        <td>TOÁN</td>
+        <td>NGỮ VĂN</td>
+        <td>VẬT LÝ</td>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>SH TẬP THỂ</td>
+        <td>ANH VĂN</td>
+        <td>TIN HỌC</td>
+        <td>NGỮ VĂN</td>
+        <td>VẬT LÝ</td>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>HÓA</td>
+        <td>ANH VĂN</td>
+        <td>THỂ DỤC</td>
+        <td>TIN HỌC</td>
+        <td>TOÁN</td>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>HÓA</td>
+        <td>GDQP</td>
+        <td>THỂ DỤC</td>
+        <td>SINH</td>
+        <td>TOÁN</td>
+    </tr>
+    <tr><th colspan="6"><strong class="sevencolorVER1">CHIỀU</strong></th></tr>
+    <tr class="sevencolorVER2">
+        <td>NGỮ VĂN</td>
+        <td>LÝ TĂNG CƯỜNG</td>
+        <td></td>
+        <td>TOÁN</td>
+        <td></td>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>VẬT LÝ</td>
+        <td>LÝ TĂNG CƯỜNG</td>
+        <td>ANH VĂN</td>
+        <td>TOÁN</td>
+        <td></td>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>LỊCH SỬ</td>
+        <td>HÓA TĂNG CƯỜNG</td>
+        <td>TOÁN</td>
+        <td>LỊCH SỬ</td>
+        <td></td>
+    </tr>
+    <tr class="sevencolorVER2">
+        <td>HÓA</td>
+        <td>HÓA TĂNG CƯỜNG</td>
+        <td>TOÁN</td>
+        <td>LỊCH SỬ</td>
+        <td></td>
+    </tr>
+  </table>
+  <hr class="border7mau">
+  
+  <!--Vận dụng cao footer-->
+<footer style="text-align: center;background-color: black;color: azure;padding: 20px;font-size: 15px;">
+<p>Code developed by <strong><i>Nguyễn Phan Đăng Khoa</i></strong></p><br>
+<p><a href="https://github.com/npdk1" style="color: aqua;font-size: large;">My Github Profile</a></p><br>
+<p>&#169; 2024 All Rights Reserved</p>
+</footer>
+
+</body>
+    
+</body>
+</html>
